@@ -1,0 +1,24 @@
+.tsk h1{
+    color: rgb(0, 0, 0);
+}
+.tsk{
+    overflow-x: hidden;
+    padding: 0;
+}
+.tsk h1{
+    margin-left: 0;
+    margin-right: 0;
+}
+.body{
+    overflow-x: hidden;
+}
+.navbar{
+    overflow-x: hidden;
+}
+.bttn{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    width: 90vw;
+}
